@@ -5,7 +5,7 @@ Design and implement a RESTful API (including data model and the backing impleme
 - Vertx
 - junit
 
-# other libraries 
+# Other libraries 
 - gson
 - snakeyaml
 - apache > commons-lang
